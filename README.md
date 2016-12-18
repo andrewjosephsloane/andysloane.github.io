@@ -1,6 +1,15 @@
-## Welcome to GitHub Pages
+# Urban planning graduate with leaderships experience seeking role in resource management
+
+  ## [Linkedin](https://www.linkedin.com/in/andysloane)
+
+  ## [Portfolio](https://readymag.com/u98679279/andysloane/)
+
+   ### [Photo blog](http://andy-in-nz.tumblr.com/)
+
+   ### [CCC - Look Again Campaign](https://www.youtube.com/watch?v=6Mei7Nr9bRs)
 
 You can use the [editor on GitHub](https://github.com/andrewjosephsloane/andysloane.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
