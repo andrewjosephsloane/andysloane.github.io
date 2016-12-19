@@ -9,3 +9,5 @@
 
 [CCC - Look Again Campaign](https://www.youtube.com/watch?v=6Mei7Nr9bRs)
 
+'a', 'b'].map { |x| x.uppercase }
+
